@@ -17,6 +17,8 @@ Tableau was used to clean the data, create a dashboard representing the followin
 
 # SUPERSTORE SALES DASHBOARD
 
+![](image/superstore.png)
+
 This dashboard provides insights into the sales at a superstore.
 
 * Data was provided by the Quantum Analytics Group.
@@ -30,6 +32,9 @@ The following KPI´s where generated
 
 
 # HR DASHBOARD
+
+![](image/hrdashboard.jpg)
+
  This dashboard was created to visualize insights for a HR department of an organisation.
  
 * Data was provided by the Quantum Analytics Group.
