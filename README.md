@@ -24,4 +24,18 @@ The following KPI´s where generated
 1. Top 10 selling products
 2. Sales generated per State.
 3. Sales generated per Region.
-4. Profitc Chart for all products sold.
+4. Profit Chart for all products sold.
+
+
+# HR DASHBOARD
+ This dashboard was created to visualize insights for a HR department of an organisation.
+ 
+* Data was provided by the Quantum Analytics Group.
+* Data visualization tool used is Power-Bi.
+
+The following KPI´s where generated;
+1. Staff due for promotion by department.
+2. Total no pf employees, showing the percentage of male to female employees.
+3. Oldest memebers of staff
+4. % distance of staff to the office(helps to factor travel time).
+5. Employees per job level.
