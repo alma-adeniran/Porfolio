@@ -1,7 +1,7 @@
 ## MY PROJECTS
 
 # COVID-19 IMPACT ON AIRPORT TRAFFIC PROJECT
-![](https://github.com/alma-adeniran/Alma-s-Porfolio/blob/main/images/2nd%20project.png)
+![](/images/2nd%20project.png)
 
 This project provides an analysis of the COVID-19 impact on airport travel rom February-March,2020 focusing on four countries namely; The United States of America, Canada, Australia and Chile.
 
@@ -16,7 +16,7 @@ Tableau was used to clean the data, create a dashboard representing the followin
 
 # SUPERSTORE SALES DASHBOARD
 
-![](https://github.com/alma-adeniran/Alma-s-Porfolio/blob/main/images/superstore%20dashboard.png)
+![](/images/superstore%20dashboard.png)
 
 This dashboard provides insights into the sales at a superstore.
 
@@ -32,7 +32,7 @@ The following KPI´s where generated
 
 # HR DASHBOARD
 
-![](https://github.com/alma-adeniran/Alma-s-Porfolio/blob/main/images/hr%20dashboard.JPG)
+![](/images/hr%20dashboard.JPG)
 
  This dashboard was created to visualize insights for a HR department of an organisation.
  
