@@ -34,7 +34,7 @@ The following KPI´s where generated
 
 # HR DASHBOARD
 
-![](image/hrdashboard.jpg)
+![](hr dashboard.jpg)
 
  This dashboard was created to visualize insights for a HR department of an organisation.
  
