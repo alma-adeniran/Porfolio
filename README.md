@@ -17,7 +17,7 @@ Tableau was used to clean the data, create a dashboard representing the followin
 
 # SUPERSTORE SALES DASHBOARD
 
-![](image/superstore.png)
+![](image/superstoredashboard.png)
 
 This dashboard provides insights into the sales at a superstore.
 
