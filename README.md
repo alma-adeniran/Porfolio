@@ -1,7 +1,7 @@
 ## MY PROJECTS
 
 # COVID-19 IMPACT ON AIRPORT TRAFFIC PROJECT
-![](/images/2nd%20project.png)
+![](https://github.com/alma-adeniran/Porfolio/blob/5f14121221a856722ad65fa394dbf0761241d679/images/2nd%20project.png)
 
 This project provides an analysis of the COVID-19 impact on airport travel rom February-March,2020 focusing on four countries namely; The United States of America, Canada, Australia and Chile.
 
