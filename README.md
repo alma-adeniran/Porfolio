@@ -7,8 +7,21 @@ This project provides an analysis of the COVID-19 impact on airport travel rom F
 * Data was provieded by the Quantum Analytics Group.
 * Data visualization tool used is Tableau.
 
-Tableau was used to clean the data and generate the fllowing KPI´s:
-* Traffic volume by state.
-* % Traffic volume by country.
-* Top 10 afftected airports
-* Monthly % traffic volume for each country.
+Tableau was used to clean the data, create a dashboard representing the following KPI´s:
+1. Traffic volume by state.
+2. % Traffic volume by country.
+3. Top 10 afftected airports
+4. Monthly % traffic volume for each country.
+
+# SUPERSTORE SALES DASHBOARD
+
+This dashboard provides insights into the sales at a superstore.
+
+* Data was provided by the Quantum Analytics Group.
+* Data visualization tool used is Tableau.
+
+The following KPI´s where generated
+1. Top 10 selling products
+2. Sales generated per State.
+3. Sales generated per Region.
+4. Profitc Chart for all products sold.
