@@ -18,7 +18,7 @@ Tableau was used to clean the data, create a dashboard representing the followin
 
 # SUPERSTORE SALES DASHBOARD
 
-![](image/superstoredashboard.png)
+![](/Users/almaa/Desktop/Tableau/superstore dashboard.png)
 
 This dashboard provides insights into the sales at a superstore.
 
@@ -34,7 +34,7 @@ The following KPI´s where generated
 
 # HR DASHBOARD
 
-![](hr dashboard.jpg)
+![](hrdashboard.jpg)
 
  This dashboard was created to visualize insights for a HR department of an organisation.
  
