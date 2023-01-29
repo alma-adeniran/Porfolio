@@ -5,10 +5,10 @@
 
 This project provides an analysis of the COVID-19 impact on airport travel rom February-March,2020 focusing on four countries namely; The United States of America, Canada, Australia and Chile.
 
-* Data was provieded by the Quantum Analytics Group.
+* Data was provided by the Quantum Analytics Group.
 * Data visualization tool used is Tableau.
 
-Tableau was used to clean the data, create a dashboard representing the following KPI´s:
+Tableau was used to clean the data, this dashboard represents the following KPI´s:
 1. Traffic volume by state.
 2. % Traffic volume by country.
 3. Top 10 afftected airports
