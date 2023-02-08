@@ -16,7 +16,7 @@ Tableau was used to clean the data, this dashboard represents the following KPIÂ
 
 # SUPERSTORE SALES DASHBOARD
 
-![](/images/superstore%20dashboard.png)
+![](images/superstore%20dashboard.png)
 
 This dashboard provides insights into the sales at a superstore.
 
